@@ -1,0 +1,2 @@
+# CareerCompass
+First frontend project
